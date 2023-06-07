@@ -12,3 +12,5 @@ function positiveSum(arr) {
     let arrayTotal = arrayClean.reduce((a,b)=>a+b ,0);
     return arrayTotal
   }
+
+
